@@ -4,8 +4,6 @@
 
 I ❤ Open Source. I love [Python](https://www.python.org/) and [Go](https://golang.org).
 
-I'm looking for [GitHub sponsors](https://github.com/sponsors/hankchan).
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankchan&hide=html)
 ![hankchan's github stats](https://github-readme-stats.vercel.app/api?username=hankchan&show_icons=true&count_private=true&line_height=40)
 
